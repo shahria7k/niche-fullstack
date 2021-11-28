@@ -1,0 +1,24 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar .logo {
+  width: 101px;
+  height: 36px;
+}
+
+.navbar nav {
+  display: flex;
+  justify-content: space-around;
+  font-family: TradeGothic LT CondEighteen;
+}
+
+.navbar nav .nav-link {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+  text-transform: uppercase;
+  color: #131212;
+}
+/*# sourceMappingURL=Header.styles.css.map */
